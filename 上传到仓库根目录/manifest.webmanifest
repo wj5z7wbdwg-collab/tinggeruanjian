@@ -1,0 +1,1 @@
+{"name":"MoodTune · 智能识别点歌系统","short_name":"MoodTune","start_url":"./","display":"standalone","background_color":"#0f1012","lang":"zh-CN","scope":"./","description":"识别情绪，为你推荐此刻想听的歌","theme_color":"#0f1012","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"},{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"maskable"}]}

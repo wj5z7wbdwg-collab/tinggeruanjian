@@ -1,0 +1,1 @@
+import{A as i}from"./index-pRgGJCCg.js";const n=i("emotion",{state:()=>({probs:{neutral:1},primary:"neutral",conf:1,coldStart:!1,source:null}),actions:{setResult({probs:t,primary:o,conf:s,coldStart:r,source:e}){this.probs=t,this.primary=o,this.conf=s,this.coldStart=r,this.source=e}}});export{n as u};
